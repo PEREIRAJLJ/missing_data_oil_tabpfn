@@ -1,0 +1,15 @@
+# Provisional dependencies; original exact versions not verified
+numpy
+pandas
+openpyxl
+scikit-learn
+scipy
+matplotlib
+optuna
+xgboost
+tensorflow
+torch
+tabpfn
+huggingface_hub
+jupyter
+ipykernel
